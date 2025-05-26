@@ -16,7 +16,8 @@ The focus is on leveraging the capabilities of Google Cloud Platform (GCP) to se
 
 The adoption of AI in invoice processing promises not only time savings but also a marked improvement in the accuracy and speed of payment procurement, ultimately advancing the financial workflow more efficiently.
 
-
-![ ](/assets/images/sap_gcp.png)
+<p align="center">
+  <img src="https://github.com/Shreyamuthaiah/Shreyamuthaiah.github.io/assets/images/sap_gcp.png" width="300" />
+</p>
 
 
