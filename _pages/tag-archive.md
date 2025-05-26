@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
+title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
