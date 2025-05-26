@@ -5,6 +5,7 @@ author_profile: true
 ---
 For more information:
 
+[Download PDF](https://drive.google.com/file/d/12kvFjGKy6nhxoLiGVGT5FkCTvMsX3JbA/view?usp=sharing)
 <iframe src="https://drive.google.com/file/d/12kvFjGKy6nhxoLiGVGT5FkCTvMsX3JbA/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
