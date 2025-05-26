@@ -4,7 +4,7 @@ permalink: /projects/
 layout: single
 author_profile: true
 ---
-**Master's thesis: Optimizing Vendor Invoice Processes: A Document AI approach for efficient management**
+* **Master's thesis: Optimizing Vendor Invoice Processes: A Document AI approach for efficient management**
 
 **Abstract**
 
@@ -19,7 +19,7 @@ The adoption of AI in invoice processing promises not only time savings but also
 
 
 
-**Slope Control of a mobile robot using Arduino NiclaVision**
+* **Slope Control of a mobile robot using Arduino NiclaVision**
 
 **Abstract**
 
@@ -36,7 +36,7 @@ For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
 
 
 
-**Optimization of Data Flow in the Production Environment**
+* **Optimization of Data Flow in the Production Environment**
 
 **Overview**
 The production environment is becoming increasingly **data-intensive**, with devices and sensors generating vast amounts of data. This project focuses on **optimizing data flow** to ensure efficient and secure processing while extracting valuable insights.
@@ -63,7 +63,7 @@ For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
 
 
 
-**AI-Powered Retrieval System with RAG**
+* **AI-Powered Retrieval System with RAG**
 
 **Overview**
 This project focuses on **Retrieval-Augmented Generation (RAG)**, enabling AI to interact with databases efficiently. By leveraging **custom embeddings** and **advanced chunking strategies**, the system enhances retrieval accuracy and optimizes data processing.
@@ -89,7 +89,7 @@ For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
 
 
 
-**Smart Extruder – Industry 4.0 Component**
+* **Smart Extruder – Industry 4.0 Component**
 
 **Overview**
 This project focuses on **real-time MQTT logging** with **Grafana integration** to enhance **manufacturing analytics**. By leveraging **Industry 4.0 technologies**, the system enables efficient monitoring and visualization of extruder performance.
@@ -114,7 +114,7 @@ For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
 
 
 
-**Book Recommendation Engine Using KNN**
+* **Book Recommendation Engine Using KNN**
 
 **Overview**
 This project implements a **K-Nearest Neighbors (KNN)** algorithm to build a **book recommendation system**. Using the **Book-Crossings dataset**, the system predicts user preferences based on similar reading patterns.
@@ -138,7 +138,7 @@ For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
 
 
 
-**Linear Regression Health Costs Calculator**
+* **Linear Regression Health Costs Calculator**
 
 **Overview**
 This project applies **linear regression** to predict **healthcare costs** based on various factors such as age, BMI, smoking habits, and more. The model helps estimate medical expenses using historical data.
@@ -162,7 +162,7 @@ For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
 
 
 
-**Neural Network SMS Text Classifier**
+* **Neural Network SMS Text Classifier**
 
 **Overview**
 This project implements a **neural network-based SMS text classifier** to distinguish between **spam** and **ham** messages. Using machine learning techniques, the model predicts whether an incoming SMS is legitimate or spam.
