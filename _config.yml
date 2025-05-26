@@ -98,6 +98,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      classes: "wide"
       related: true
   # _pages
   - scope:
@@ -106,5 +107,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-
 
