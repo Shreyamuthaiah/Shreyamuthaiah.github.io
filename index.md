@@ -21,27 +21,33 @@ Skills I am trying to master as follow:
 
 **WORK EXPERIENCE**
 
-* Automation Consultant - Deustche Boerse Group 
+* **Automation Consultant - Deustche Boerse Group**
+  
   Developed an AI agent, cutting query resolution time by 40% and boosting efficiency. Automated data collection, improving dashboard accuracy by 30%. Built a dynamic purchasing dashboard, enhancing financial transparency by 25%. Led AI automation initiatives, reducing manual workload by 35%.
 
-* Artificial Intelligence Intern - Deutsche Boerse Group 
+* **Artificial Intelligence Intern - Deutsche Boerse Group**
+  
   Built an AI-powered document processing tool using Google Document AI, replacing traditional OCR in SAP VIM and improving invoice data extraction accuracy by 35%. Trained and optimized the AI model, achieving 93% precision, surpassing existing solutions. Documented development phases with detailed technical reports to ensure scalability and streamline automation. [Master Thesis]
 
-* Data Analyst Intern - Deutsche Boerse Group
+* **Data Analyst Intern - Deutsche Boerse Group**
+  
   Built a PoC dashboard improving budget management and FTE analysis by 35%. Led system administration, reducing data inconsistencies by 20%. Streamlined data migration, boosting integration speed by 30%.
 
-* Associate Professional Software Engineer - DXC Technology
+* **Associate Professional Software Engineer - DXC Technology**
+  
   Migrated 120 Linux servers, reducing downtime by 15% and boosting reliability. Ensured 99% seamless server handover during cutovers. Deployed and optimized cloud infrastructure across AWS & Azure. Established SSoT repository, improving data accuracy by 25%.
 
 
 **EDUCATION**
 
 * **Master of Engineering** in Industrial Informatics from Hochschule Emden/Leer.
+  
   Focus: Data Science, Automation, Robotics, Industry 4.0
   Master’s Thesis: Optimizing Vendor Invoice Processes using Google Document AI & SAP VIM (boosted accuracy by 35%, precision by 93%)
 
 * **Bachelor of Engineering** in Electrical & Electronics from Sri Venkateshwara College of Engineering.
- Focus: Circuit Analysis, Control Systems, Digital Signal Processing
+  
+  Focus: Circuit Analysis, Control Systems, Digital Signal Processing
 
 
 **CERTIFICATIONS**
