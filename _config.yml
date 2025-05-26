@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shreya Rangamuthaiah"
   avatar : "/assets/images/Photo.jpg"
-  bio    : "AI | ML | Data — shaping smarter solutions through intelligent automation."
+  bio    : "AI, ML, & Data — shaping smarter solutions through intelligent automation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
