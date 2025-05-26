@@ -19,7 +19,7 @@ Skills I am trying to master as follow:
 **Technical Expertise:** Python, SQL, TensorFlow, PyTorch, Power BI, SAP Analytics Cloud, Docker.
 
 
-**WORK EXPERIENCE**
+**WORK EXPERIENCE** 🏢
 
 * **Automation Consultant - Deustche Boerse Group**
   
@@ -38,11 +38,12 @@ Skills I am trying to master as follow:
   Migrated 120 Linux servers, reducing downtime by 15% and boosting reliability. Ensured 99% seamless server handover during cutovers. Deployed and optimized cloud infrastructure across AWS & Azure. Established SSoT repository, improving data accuracy by 25%.
 
 
-**EDUCATION**
+**EDUCATION** 🎓
 
 * **Master of Engineering** in Industrial Informatics from Hochschule Emden/Leer.
   
   Focus: Data Science, Automation, Robotics, Industry 4.0
+
   Master’s Thesis: Optimizing Vendor Invoice Processes using Google Document AI & SAP VIM (boosted accuracy by 35%, precision by 93%)
 
 * **Bachelor of Engineering** in Electrical & Electronics from Sri Venkateshwara College of Engineering.
@@ -50,7 +51,7 @@ Skills I am trying to master as follow:
   Focus: Circuit Analysis, Control Systems, Digital Signal Processing
 
 
-**CERTIFICATIONS**
+**CERTIFICATIONS** 🌠
 
 * **Microsoft Azure Fundamentals AZ-900** [Link](https://www.credly.com/users/shreya-r.fbc2b33c)
 * **AWS Cloud Practitioner CLF-01** [Link](https://www.credly.com/users/shreya-r.fbc2b33c)
