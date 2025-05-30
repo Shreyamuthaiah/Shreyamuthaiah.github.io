@@ -33,7 +33,7 @@ One example of a state-of-the-art method is **deep learning**, particularly **li
 
 This project leverages AI-driven slope detection to enhance real-world applications in **robotics, autonomous systems, and terrain analysis**.
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- <For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) --> -->
 
 
 
@@ -65,7 +65,7 @@ By optimizing data flow, the system enhances **efficiency**, supports production
 - **MySQL** – For structured data storage  
 - **Microsoft Power BI** – For visualization and reporting  
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) -->
 
 
 
@@ -95,7 +95,7 @@ This project focuses on **Retrieval-Augmented Generation (RAG)**, enabling AI to
 - **Custom Embeddings**
 - **Chunking Strategies for Efficient Retrieval**
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) -->
 
 
 
@@ -124,7 +124,7 @@ This project focuses on **real-time MQTT logging** with **Grafana integration** 
 - **Grafana** – For visualization and analytics  
 - **Industry 4.0 Framework** – For smart manufacturing integration  
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) -->
 
 
 
@@ -153,7 +153,7 @@ This project implements a **K-Nearest Neighbors (KNN)** algorithm to build a **b
 - **Scikit-learn** – For KNN-based recommendation system  
 - **Pandas & NumPy** – For data manipulation  
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) -->
 
 
 
@@ -181,7 +181,7 @@ This project applies **linear regression** to predict **healthcare costs** based
 - **Scikit-learn** – For linear regression modeling  
 - **Pandas & NumPy** – For data manipulation  
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) -->
 
 
 
@@ -209,6 +209,6 @@ This project implements a **neural network-based SMS text classifier** to distin
 - **TensorFlow/Keras** – For neural network training  
 - **Natural Language Processing (NLP)** – For text tokenization and vectorization  
 
-For more information find it on my [GitHub](https://github.com/Shreyamuthaiah)
+<!-- For more information find it on my [GitHub](https://github.com/Shreyamuthaiah) -->
 
 
